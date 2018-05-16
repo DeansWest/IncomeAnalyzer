@@ -2,6 +2,9 @@
 # Nigel - 05/16/2018
 
 # Want to set up a Python server that will provide a form and generate a view. Or provide a backend service to a single page application.
+# The form will collect information typically available in the early stage of applying for a job, such as hourly rate or general location.
+# The backend will use that to generate a view of answers such as net pay per month.
+
 # I already have a demostratable version running on a Java server...
 
 # http://env-3916994.jelastic.servint.net/IncomeAnalyser/                ....  demonstration (when server is up and running)
